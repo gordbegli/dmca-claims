@@ -11,7 +11,7 @@ export default function Home() {
       <div className="min-h-screen bg-gradient-to-b from- via-white to-blue-600">
         <Title />
         <SubTitle />
-          <div className='place-content-center flex items-stretch flex-wrap ...'>
+          <div className='max-w-full place-content-center flex items-stretch flex-wrap ...'>
             <LogoContainer filename={'amazon'} url={'https://www.amazon.com/report/infringement/signin'}/>
             <LogoContainer filename={'facebook'} url={'https://www.facebook.com/help/contact/1758255661104383'}/>
             <LogoContainer filename={'github'} url={'https://support.github.com/contact/dmca-takedown'}/>
