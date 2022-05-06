@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Title from '../components/Title.js'
-import SubTitle from '../components/SubTitle.js'
-import LogoContainer from '../components/LogoContainer.js'
+import Title from '../Components/Title.js'
+import SubTitle from '../Components/SubTitle.js'
+import LogoContainer from '../Components/LogoContainer.js'
 
 
 export default function Home() {
