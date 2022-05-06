@@ -3,12 +3,15 @@ import Image from 'next/image'
 import Title from '../Components/Title.js'
 import SubTitle from '../Components/SubTitle.js'
 import LogoContainer from '../Components/LogoContainer.js'
+import Nav from '../Components/Nav.js'
 
 
 export default function Home() {
   return (
     <>
+
       <div className="min-h-screen bg-gradient-to-b from- via-white to-blue-600">
+      <Nav />
         <Title />
         <SubTitle />
           <div className='max-w-full place-content-center flex items-stretch flex-wrap ...'>

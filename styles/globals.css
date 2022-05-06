@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html{
+    width: 100%;
+    min-width: fit-content;
+    margin: 0 auto;
+}
