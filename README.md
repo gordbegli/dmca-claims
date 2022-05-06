@@ -1,5 +1,5 @@
 ## DMCA Claims  
-This site aims to make it easier for creators to file DMCA Copyright Claims.
+A directory of links to DMCA Takedown Forms.
 
 ## Contribute  
 Feel free to add other companies and their forms to this list.
