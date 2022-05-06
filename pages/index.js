@@ -1,14 +1,14 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Title from '../Components/Title.js'
+
 
 export default function Home() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-      <p class="text-blue-600/100">The quick brown fox...</p>
+      <div class="min-h-screen align-middle bg-gradient-to-b from- via-white to-blue-600">
+        <Title />
+      </div>
     </>
   )
 }
