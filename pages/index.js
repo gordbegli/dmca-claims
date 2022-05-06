@@ -8,7 +8,7 @@ import LogoContainer from '../Components/LogoContainer.js'
 export default function Home() {
   return (
     <>
-      <div class="min-h-screen bg-gradient-to-b from- via-white to-blue-600">
+      <div className="min-h-screen bg-gradient-to-b from- via-white to-blue-600">
         <Title />
         <SubTitle />
           <div className='place-content-center flex items-stretch flex-wrap ...'>
