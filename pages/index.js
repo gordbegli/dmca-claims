@@ -4,14 +4,13 @@ import Title from '../Components/Title.js'
 import SubTitle from '../Components/SubTitle.js'
 import LogoContainer from '../Components/LogoContainer.js'
 import Nav from '../Components/Nav.js'
-
+import Footer from '../Components/Footer.js'
 
 export default function Home() {
   return (
     <>
-
       <div className="min-h-screen bg-gradient-to-b from- via-white to-blue-600">
-      <Nav />
+{/*       <Nav /> */}
         <Title />
         <SubTitle />
           <div className='max-w-full place-content-center flex items-stretch flex-wrap ...'>
@@ -25,9 +24,8 @@ export default function Home() {
             <LogoContainer filename={'tiktok'} url={'https://www.tiktok.com/legal/report/Copyright?lang=en'}/>
             <LogoContainer filename={'youtube'} url={'https://support.google.com/youtube/answer/2807622?hl=en'}/>
           </div>
-
+{/*       <Footer /> */}
       </div>
-
     </>
   )
 }

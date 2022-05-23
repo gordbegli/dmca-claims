@@ -146,7 +146,7 @@ function Nav() {
                                                 <rect x="14" y="11" width="7" height="12" />
                                             </svg>
                                             <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
-                                                Company
+                                                DMCA.Claims
                                             </span>
                                         </a>
                                     </div>
@@ -221,7 +221,7 @@ function Nav() {
                                         <li>
                                             <a
                                                 href="/"
-                                                class="inline-flex items-center justify-center w-full h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
+                                                class="inline-flex items-center justify-center w-full h-12 px-6 font-medium tracking-wide bg-blue-600  text-white  duration-200 rounded shadow-md"
                                                 aria-label="Sign up"
                                                 title="Sign up"
                                             >
